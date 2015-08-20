@@ -2,7 +2,8 @@
 
 ## Description
 
-Several inventory scripts for Ansible Core &amp; Ansible Tower.
+Several scripts for Ansible Core &amp; Ansible Tower.  
+Feel free to use it!
 
 ## License
 
