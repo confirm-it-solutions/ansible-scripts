@@ -1,0 +1,6 @@
+[submodule "gitdb"]
+	path = gitdb
+	url = git@github.com:gitpython-developers/gitdb.git
+[submodule "GitPython"]
+	path = GitPython
+	url = git@github.com:gitpython-developers/GitPython.git
